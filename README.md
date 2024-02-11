@@ -34,8 +34,6 @@ Generations:
 
 Feature Vector addition:
 
-![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/0e5aa6f0-fab9-4656-a6f9-57334a393db1)
-
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/a66137ee-4093-4cac-bed1-d8105b98da6a)
 
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/6b4bea24-d045-40a1-9535-6a00c18f0307)

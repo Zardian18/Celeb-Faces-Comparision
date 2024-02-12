@@ -21,6 +21,26 @@ Interpolation:
 
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/8edb6049-310b-45c0-95f6-64807b637ef4)
 
+# StyleGAN <br>
+
+Generations:
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/af219661-a322-471e-a631-ebfd5ea5d4bf)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/45966c90-dd14-43e5-835e-315c89d4c423)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/7366d3bb-08b6-4233-9c96-3221fffca0e5)
+
+
+
+Style Mixing: 
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/8252ad43-49ce-40fc-a8dd-6022c8020664)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/33619656-8931-43b7-bbf5-6e43c35fc691)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/d313cd73-1cdd-4ab8-8953-d682f5e4d3e0)
+
 
 
 # VAE <br>

@@ -46,10 +46,12 @@ Style Mixing:
 Was trained for very less time due to hardware restrictions.
 
 Generations:
+
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/dd5b7ca6-9ef7-4bcb-88c4-a40170c32bd5)
 
 Interpotions:
-![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/cf0bf547-adc6-4dbd-b5e2-2257273525ba)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/f1c6b58a-c228-4d4b-a9cf-ca0643e9dcaf)
 
 
 

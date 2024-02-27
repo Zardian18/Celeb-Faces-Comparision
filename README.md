@@ -68,6 +68,12 @@ Generations:
 
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/be80ce01-117a-4451-834a-eea14cb7872b)
 
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/ef870737-9979-41cb-a349-ae26a557d45b)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/df8e2f1a-89eb-4c02-a640-332060a2cab8)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/0e2b527f-6979-46a2-ba87-d35aa82e7aaa)
+
 
 # VAE <br>
 

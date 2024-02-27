@@ -53,6 +53,13 @@ Interpotions:
 
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/f1c6b58a-c228-4d4b-a9cf-ca0643e9dcaf)
 
+# SAGAN <br>
+
+Generations:
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/c30250dc-f728-4216-b0fc-f0d07b30f6c8)
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/14458f7f-6c4d-4817-b486-49c8679b8fd9)
 
 
 # VAE <br>

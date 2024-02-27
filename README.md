@@ -62,6 +62,13 @@ Generations:
 ![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/14458f7f-6c4d-4817-b486-49c8679b8fd9)
 
 
+# VQ-VAE <br>
+
+Generations:
+
+![image](https://github.com/Zardian18/Celeb-Faces-Comparision/assets/106113538/be80ce01-117a-4451-834a-eea14cb7872b)
+
+
 # VAE <br>
 
 Generations:
